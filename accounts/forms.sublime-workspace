@@ -1,0 +1,768 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ci",
+				"cimodel\tCodeIgniter Model"
+			],
+			[
+				"backgro",
+				"background-size\tproperty"
+			],
+			[
+				"rgb",
+				"rgba()\tbackground-color"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"src",
+				"script\tHTML - Script"
+			],
+			[
+				"sta",
+				"static\tstatic"
+			],
+			[
+				"url",
+				"url\tDjango template url"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"ty",
+				"types"
+			],
+			[
+				"ho",
+				"home_url\tstatement"
+			],
+			[
+				"class",
+				"class\tNew Class"
+			],
+			[
+				"cl",
+				"class\tNew Class"
+			],
+			[
+				"Htt",
+				"HttpResponse\tmodule"
+			],
+			[
+				"str",
+				"strong\tTag"
+			],
+			[
+				"no",
+				"novalidate\tAttr"
+			],
+			[
+				"help",
+				"help_text"
+			],
+			[
+				"form",
+				"forms\tmodule"
+			],
+			[
+				"Model",
+				"ModelForm\tModelForm"
+			],
+			[
+				"else",
+				"else\telse"
+			],
+			[
+				"def",
+				"def\tFunction"
+			],
+			[
+				"mo",
+				"model\tmodel"
+			],
+			[
+				"new_top",
+				"new_topic_url\tstatement"
+			],
+			[
+				"view",
+				"views\tmodule"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"board",
+				"board_topics_url\tstatement"
+			],
+			[
+				"home",
+				"homepage_url\tstatement"
+			],
+			[
+				"fo",
+				"format\tfunction"
+			],
+			[
+				"re",
+				"return\tkeyword"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"creat",
+				"Create"
+			],
+			[
+				"pk",
+				"pass\tkeyword"
+			],
+			[
+				"vie",
+				"views\tmodule"
+			],
+			[
+				"si",
+				"site"
+			],
+			[
+				"adm",
+				"admin\tmodule"
+			],
+			[
+				"ad",
+				"adminview\tModel Admin View"
+			],
+			[
+				"bread",
+				"b4:breadcrumb:nav\tbreadcrumb_nav"
+			],
+			[
+				"vi",
+				"view\tstatement"
+			],
+			[
+				"cla",
+				"class\tkeyword"
+			],
+			[
+				"tes",
+				"TestCase\tmodule"
+			],
+			[
+				"clas",
+				"class\tNew Class"
+			],
+			[
+				"sty",
+				"style\tAttr"
+			],
+			[
+				"base",
+				"BASE_DIR\tstatement"
+			],
+			[
+				"boa",
+				"boards_names\tstatement"
+			],
+			[
+				"list",
+				"list\tlist"
+			],
+			[
+				"lis",
+				"list\tclass"
+			],
+			[
+				"o",
+				"object\tobject"
+			],
+			[
+				"T",
+				"True\tkeyword"
+			],
+			[
+				"mode",
+				"models\tmodule"
+			],
+			[
+				"fps",
+				"FPS"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"color",
+				"COLORS"
+			],
+			[
+				"BOA",
+				"BOARDHEIGHT"
+			],
+			[
+				"WINDO",
+				"WINDOWHEIGHT"
+			],
+			[
+				"windo",
+				"WINDOWWIDTH"
+			],
+			[
+				"K",
+				"K_ESCAPE"
+			],
+			[
+				"quit",
+				"QUIT"
+			],
+			[
+				"check",
+				"checkForQuit"
+			],
+			[
+				"event",
+				"event"
+			],
+			[
+				"key",
+				"KEYUP"
+			],
+			[
+				"eas",
+				"EASY"
+			],
+			[
+				"hard",
+				"HARD"
+			],
+			[
+				"LE",
+				"level"
+			],
+			[
+				"HAR",
+				"HARD_FPS"
+			],
+			[
+				"ME",
+				"MEDIUM_FPS"
+			],
+			[
+				"ES",
+				"EASY_FPS"
+			],
+			[
+				"me",
+				"MEDIUM"
+			],
+			[
+				"medium",
+				"MEDIUM"
+			],
+			[
+				"ha",
+				"HARD"
+			],
+			[
+				"mouse",
+				"mousey"
+			],
+			[
+				"medi",
+				"MEDIUM"
+			],
+			[
+				"ea",
+				"EASY"
+			],
+			[
+				"EA",
+				"EASY"
+			],
+			[
+				"get",
+				"getMousePosition"
+			],
+			[
+				"le",
+				"level"
+			],
+			[
+				"wind",
+				"WINDOWHEIGHT"
+			],
+			[
+				"draw",
+				"drawButton"
+			],
+			[
+				"easy",
+				"easyButtonRect"
+			],
+			[
+				"window",
+				"WINDOWHEIGHT"
+			],
+			[
+				"easyB",
+				"easyButtonSurf"
+			],
+			[
+				"ti",
+				"time"
+			],
+			[
+				"chec",
+				"checkForKeyPress"
+			],
+			[
+				"disp",
+				"display"
+			],
+			[
+				"win",
+				"WINDOWWIDTH"
+			],
+			[
+				"score",
+				"scoreSurf"
+			],
+			[
+				"cell",
+				"CELLHEIGHT"
+			],
+			[
+				"cw",
+				"CELLWIDTH"
+			],
+			[
+				"worm",
+				"worm"
+			],
+			[
+				"apple",
+				"apple"
+			],
+			[
+				"app",
+				"apple"
+			],
+			[
+				"head",
+				"HEAD"
+			],
+			[
+				"w",
+				"wormSegmentRect"
+			],
+			[
+				"down",
+				"DOWN"
+			],
+			[
+				"up",
+				"UP"
+			],
+			[
+				"left",
+				"LEFT"
+			],
+			[
+				"lef",
+				"LEFT"
+			],
+			[
+				"right",
+				"RIGHT"
+			],
+			[
+				"qui",
+				"QUIT"
+			],
+			[
+				"rotatedS",
+				"rotatedSurf2"
+			],
+			[
+				"degr",
+				"degree2"
+			],
+			[
+				"tileS",
+				"tileSurf2"
+			],
+			[
+				"dark",
+				"DARKGREEN"
+			],
+			[
+				"til",
+				"tileFont"
+			],
+			[
+				"cel",
+				"CELLSIZE"
+			],
+			[
+				"WINDOW",
+				"WINDOWWIDTH"
+			],
+			[
+				"gameOver",
+				"gameOverRect"
+			],
+			[
+				"timeout",
+				"TIMEOUT"
+			],
+			[
+				"Timeout",
+				"TIMEOUT"
+			],
+			[
+				"las",
+				"lastTime"
+			],
+			[
+				"TI",
+				"TIMEOUT"
+			],
+			[
+				"time",
+				"TIMEOUT"
+			],
+			[
+				"anima",
+				"animationSpeed"
+			],
+			[
+				"bep3",
+				"BEEP3"
+			],
+			[
+				"wai",
+				"waitingForInput"
+			],
+			[
+				"last",
+				"lastClickTime"
+			],
+			[
+				"new",
+				"newBgColor"
+			],
+			[
+				"dr",
+				"drawButton"
+			],
+			[
+				"ani",
+				"animationSpeed"
+			],
+			[
+				"flash",
+				"flashSurface"
+			],
+			[
+				"buttons",
+				"BUTTONSIZE"
+			],
+			[
+				"beep4",
+				"BEEP4"
+			],
+			[
+				"red",
+				"REDRECT"
+			],
+			[
+				"beep3",
+				"BEEP3"
+			],
+			[
+				"blue",
+				"BLUERECT"
+			],
+			[
+				"bright",
+				"BRIGHTBLUE"
+			],
+			[
+				"beep2",
+				"BEEP2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Anaconda: Run Current File Tests"
+			],
+			[
+				"pep8",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"Snippet: ",
+				"Snippet: small"
+			],
+			[
+				"PEP8",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"INST",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Development/myproject/myproject/downloads/bootstrap-4.6.0-dist/css/bootstrap.css",
+		"/D/Development/myproject/myproject/static/css/bootstrap.min.css",
+		"/D/Development/myproject/myproject/static/js/bootstrap.min.js",
+		"/D/Development/myproject/myproject/static/js/popper.min.js",
+		"/D/Development/myproject/myproject/static/js/jquery-3.6.0.min.js",
+		"/D/Development/myproject/myproject/static/css/transparent.css",
+		"/D/Development/myproject/myproject/static/css/accounts.css",
+		"/D/Development/myproject/myproject/boards/admin.py",
+		"/D/Development/myproject/myproject/boards/models.py",
+		"/D/Development/myproject/myproject/templates/base.html",
+		"/D/Development/myproject/myproject/accounts/forms.py",
+		"/D/Development/myproject/myproject/templates/includes/form.html",
+		"/D/Development/myproject/myproject/accounts/test/test_form_signup.py",
+		"/D/Development/myproject/myproject/accounts/test/test_view_signup.py",
+		"/D/Development/myproject/myproject/templates/home.html",
+		"/D/Development/myproject/myproject/templates/topics.html",
+		"/D/Development/myproject/myproject/templates/new_topics.html",
+		"/D/Development/myproject/myproject/static/accounts.css",
+		"/D/Development/myproject/myproject/accounts/tests.py",
+		"/D/Development/myproject/myproject/accounts/test/__init__.py",
+		"/D/Development/myproject/myproject/manage.py",
+		"/D/Development/myproject/myproject/db.sqlite3",
+		"/D/Development/myproject/myproject/accounts/views.py",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Anaconda/README.md",
+		"/D/Development/myproject/myproject/boards/migrations/0001_initial.py",
+		"/D/Development/myproject/myproject/boards/migrations/0002_auto_20210316_1535.py",
+		"/D/Development/myproject/myproject/boards/migrations/__pycache__/0001_initial.cpython-38.pyc",
+		"/D/Development/myproject/myproject/templates/topic.html",
+		"/C/Users/User/Desktop/desktop.ini",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/Tetromino/tetromino.py",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/Wormy/wormyGame.py",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/Memory Puzzle/MemoryPuzzleGame.pyGame.py",
+		"/D/Folder Cai Dat/Python/Python38-32/memorypuzzlegame.py",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/Simulate/simulate.pygame.py",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/time.py",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/Slide Puzzle/slidepuzzlegame.pyGame.py",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/Miracle Door/miracleDoor.py",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/Wormy/wormyGame.spec",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/F/LAP TRINH/Lap Trinh Python/Hello.py",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/Memory Puzzle/memorypuzzle_buggy/memorypuzzle_buggy7.py",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/Memory Puzzle/memorypuzzle_buggy/memorypuzzle_buggy8.py",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/Memory Puzzle/memorypuzzle_buggy/memorypuzzle_buggy6.py",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/Memory Puzzle/memorypuzzle_buggy/memorypuzzle_buggy4.py",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/Memory Puzzle/memorypuzzle_buggy/memorypuzzle_buggy5.py",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/Memory Puzzle/memorypuzzle_buggy/memorypuzzle_buggy3.py",
+		"/C/Users/Public/Desktop/desktop.ini",
+		"/C/Users/User/Desktop/1.js",
+		"/C/Users/User/Desktop/1.php",
+		"/C/Users/User/Desktop/1.html",
+		"/C/Users/User/Desktop/wifiConfig.tar",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/C/Users/User/Desktop/plot.log",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "forms.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
