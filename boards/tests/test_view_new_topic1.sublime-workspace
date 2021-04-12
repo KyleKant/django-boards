@@ -1,0 +1,1927 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"va",
+				"value\tAttr"
+			],
+			[
+				"new_pa",
+				"new_password2"
+			],
+			[
+				"log",
+				"login_url\tstatement"
+			],
+			[
+				"block",
+				"block\tblock"
+			],
+			[
+				"defal",
+				"default_token_generator\tmodule"
+			],
+			[
+				"for",
+				"force_bytes\tmodule"
+			],
+			[
+				"typ",
+				"type\ttype"
+			],
+			[
+				"defa",
+				"default_token_generator\tmodule"
+			],
+			[
+				"uu",
+				"uuid"
+			],
+			[
+				"pass",
+				"password_reset_token_url\tstatement"
+			],
+			[
+				"input",
+				"input_class\tfunction"
+			],
+			[
+				"cl",
+				"class\tkeyword"
+			],
+			[
+				"form",
+				"form_tags\tmodule"
+			],
+			[
+				"tem",
+				"templatetags\tmodule"
+			],
+			[
+				"__c",
+				"__class__\tmagic"
+			],
+			[
+				"reques",
+				"request"
+			],
+			[
+				"ci",
+				"cimodel\tCodeIgniter Model"
+			],
+			[
+				"backgro",
+				"background-size\tproperty"
+			],
+			[
+				"rgb",
+				"rgba()\tbackground-color"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"src",
+				"script\tHTML - Script"
+			],
+			[
+				"sta",
+				"static\tstatic"
+			],
+			[
+				"url",
+				"url\tDjango template url"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"ty",
+				"types"
+			],
+			[
+				"ho",
+				"home_url\tstatement"
+			],
+			[
+				"class",
+				"class\tNew Class"
+			],
+			[
+				"Htt",
+				"HttpResponse\tmodule"
+			],
+			[
+				"str",
+				"strong\tTag"
+			],
+			[
+				"no",
+				"novalidate\tAttr"
+			],
+			[
+				"help",
+				"help_text"
+			],
+			[
+				"Model",
+				"ModelForm\tModelForm"
+			],
+			[
+				"else",
+				"else\telse"
+			],
+			[
+				"def",
+				"def\tFunction"
+			],
+			[
+				"mo",
+				"model\tmodel"
+			],
+			[
+				"new_top",
+				"new_topic_url\tstatement"
+			],
+			[
+				"view",
+				"views\tmodule"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"board",
+				"board_topics_url\tstatement"
+			],
+			[
+				"home",
+				"homepage_url\tstatement"
+			],
+			[
+				"fo",
+				"format\tfunction"
+			],
+			[
+				"re",
+				"return\tkeyword"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"creat",
+				"Create"
+			],
+			[
+				"pk",
+				"pass\tkeyword"
+			],
+			[
+				"vie",
+				"views\tmodule"
+			],
+			[
+				"si",
+				"site"
+			],
+			[
+				"adm",
+				"admin\tmodule"
+			],
+			[
+				"ad",
+				"adminview\tModel Admin View"
+			],
+			[
+				"bread",
+				"b4:breadcrumb:nav\tbreadcrumb_nav"
+			],
+			[
+				"vi",
+				"view\tstatement"
+			],
+			[
+				"cla",
+				"class\tkeyword"
+			],
+			[
+				"tes",
+				"TestCase\tmodule"
+			],
+			[
+				"clas",
+				"class\tNew Class"
+			],
+			[
+				"sty",
+				"style\tAttr"
+			],
+			[
+				"base",
+				"BASE_DIR\tstatement"
+			],
+			[
+				"boa",
+				"boards_names\tstatement"
+			],
+			[
+				"list",
+				"list\tlist"
+			],
+			[
+				"lis",
+				"list\tclass"
+			],
+			[
+				"o",
+				"object\tobject"
+			],
+			[
+				"T",
+				"True\tkeyword"
+			],
+			[
+				"mode",
+				"models\tmodule"
+			],
+			[
+				"fps",
+				"FPS"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"color",
+				"COLORS"
+			],
+			[
+				"BOA",
+				"BOARDHEIGHT"
+			],
+			[
+				"WINDO",
+				"WINDOWHEIGHT"
+			],
+			[
+				"windo",
+				"WINDOWWIDTH"
+			],
+			[
+				"K",
+				"K_ESCAPE"
+			],
+			[
+				"quit",
+				"QUIT"
+			],
+			[
+				"check",
+				"checkForQuit"
+			],
+			[
+				"event",
+				"event"
+			],
+			[
+				"key",
+				"KEYUP"
+			],
+			[
+				"eas",
+				"EASY"
+			],
+			[
+				"hard",
+				"HARD"
+			],
+			[
+				"LE",
+				"level"
+			],
+			[
+				"HAR",
+				"HARD_FPS"
+			],
+			[
+				"ME",
+				"MEDIUM_FPS"
+			],
+			[
+				"ES",
+				"EASY_FPS"
+			],
+			[
+				"me",
+				"MEDIUM"
+			],
+			[
+				"medium",
+				"MEDIUM"
+			],
+			[
+				"ha",
+				"HARD"
+			],
+			[
+				"mouse",
+				"mousey"
+			],
+			[
+				"medi",
+				"MEDIUM"
+			],
+			[
+				"ea",
+				"EASY"
+			],
+			[
+				"EA",
+				"EASY"
+			],
+			[
+				"get",
+				"getMousePosition"
+			],
+			[
+				"le",
+				"level"
+			],
+			[
+				"wind",
+				"WINDOWHEIGHT"
+			],
+			[
+				"draw",
+				"drawButton"
+			],
+			[
+				"easy",
+				"easyButtonRect"
+			],
+			[
+				"window",
+				"WINDOWHEIGHT"
+			],
+			[
+				"easyB",
+				"easyButtonSurf"
+			],
+			[
+				"ti",
+				"time"
+			],
+			[
+				"chec",
+				"checkForKeyPress"
+			],
+			[
+				"disp",
+				"display"
+			],
+			[
+				"win",
+				"WINDOWWIDTH"
+			],
+			[
+				"score",
+				"scoreSurf"
+			],
+			[
+				"cell",
+				"CELLHEIGHT"
+			],
+			[
+				"cw",
+				"CELLWIDTH"
+			],
+			[
+				"worm",
+				"worm"
+			],
+			[
+				"apple",
+				"apple"
+			],
+			[
+				"app",
+				"apple"
+			],
+			[
+				"head",
+				"HEAD"
+			],
+			[
+				"w",
+				"wormSegmentRect"
+			],
+			[
+				"down",
+				"DOWN"
+			],
+			[
+				"up",
+				"UP"
+			],
+			[
+				"left",
+				"LEFT"
+			],
+			[
+				"lef",
+				"LEFT"
+			],
+			[
+				"right",
+				"RIGHT"
+			],
+			[
+				"qui",
+				"QUIT"
+			],
+			[
+				"rotatedS",
+				"rotatedSurf2"
+			],
+			[
+				"degr",
+				"degree2"
+			],
+			[
+				"tileS",
+				"tileSurf2"
+			],
+			[
+				"dark",
+				"DARKGREEN"
+			],
+			[
+				"til",
+				"tileFont"
+			],
+			[
+				"cel",
+				"CELLSIZE"
+			],
+			[
+				"WINDOW",
+				"WINDOWWIDTH"
+			],
+			[
+				"gameOver",
+				"gameOverRect"
+			],
+			[
+				"timeout",
+				"TIMEOUT"
+			],
+			[
+				"Timeout",
+				"TIMEOUT"
+			],
+			[
+				"las",
+				"lastTime"
+			],
+			[
+				"TI",
+				"TIMEOUT"
+			],
+			[
+				"time",
+				"TIMEOUT"
+			],
+			[
+				"anima",
+				"animationSpeed"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/Development/myproject/myproject/static/css/transparent.css",
+			"settings":
+			{
+				"buffer_size": 152,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Development/myproject/myproject/accounts/forms.py",
+			"settings":
+			{
+				"buffer_size": 379,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Development/myproject/myproject/boards/templatetags/form_tags.py",
+			"settings":
+			{
+				"buffer_size": 490,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Development/myproject/myproject/myproject/settings.py",
+			"settings":
+			{
+				"buffer_size": 3333,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Development/myproject/myproject/accounts/test/test_mail_password_reset.py",
+			"settings":
+			{
+				"buffer_size": 1186,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test_templatetags.py",
+			"settings":
+			{
+				"buffer_size": 1222,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test_view_home.py",
+			"settings":
+			{
+				"buffer_size": 920,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test_view_board_topics.py",
+			"settings":
+			{
+				"buffer_size": 1264,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test_view_new_topic.py",
+			"settings":
+			{
+				"buffer_size": 3736,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Development/myproject/myproject/accounts/test/test_view_password_change.py",
+			"settings":
+			{
+				"buffer_size": 4062,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Development/myproject/myproject/accounts/test/test_view_password_reset.py",
+			"settings":
+			{
+				"buffer_size": 5457,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Development/myproject/myproject/myproject/urls.py",
+			"settings":
+			{
+				"buffer_size": 2350,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Development/myproject/myproject/accounts/views.py",
+			"settings":
+			{
+				"buffer_size": 537,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Development/myproject/myproject/boards/views.py",
+			"settings":
+			{
+				"buffer_size": 1481,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Development/myproject/venv/Lib/site-packages/django/contrib/auth/decorators.py",
+			"settings":
+			{
+				"buffer_size": 2892,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/Development/myproject/myproject/templates/base_accounts.html",
+			"settings":
+			{
+				"buffer_size": 417,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Development/myproject/myproject/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 2453,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Development/myproject/myproject/templates/login.html",
+			"settings":
+			{
+				"buffer_size": 883,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Development/myproject/myproject/templates/includes/form.html",
+			"settings":
+			{
+				"buffer_size": 658,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Development/myproject/myproject/templates/password_change.html",
+			"settings":
+			{
+				"buffer_size": 542,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Development/myproject/myproject/templates/password_change_done.html",
+			"settings":
+			{
+				"buffer_size": 536,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Development/myproject/myproject/templates/password_reset.html",
+			"settings":
+			{
+				"buffer_size": 723,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Development/myproject/myproject/templates/password_reset_complete.html",
+			"settings":
+			{
+				"buffer_size": 681,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Development/myproject/myproject/templates/password_reset_confirm.html",
+			"settings":
+			{
+				"buffer_size": 1112,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Development/myproject/myproject/templates/password_reset_done.html",
+			"settings":
+			{
+				"buffer_size": 634,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Development/myproject/myproject/templates/password_reset_email.html",
+			"settings":
+			{
+				"buffer_size": 655,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Development/myproject/myproject/templates/password_reset_subject.txt",
+			"settings":
+			{
+				"buffer_size": 42,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Development/myproject/myproject/templates/signup.html",
+			"settings":
+			{
+				"buffer_size": 654,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"de",
+				"Debugger: Quit"
+			],
+			[
+				"deb",
+				"Debugger: Open"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"Django:",
+				"Django: Run Server"
+			],
+			[
+				"",
+				"Anaconda: Run Current File Tests"
+			],
+			[
+				"pep8",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"Snippet: ",
+				"Snippet: small"
+			],
+			[
+				"PEP8",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"INST",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Development/myproject/myproject/boards/tests/test_view_new_topic1.sublime-project",
+		"/D/Development/myproject/myproject/boards/tests/test_views.py",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/HTML (Django).sublime-settings",
+		"/D/Development/myproject/myproject/boards/tests/__init__.py",
+		"/D/Development/myproject/myproject/boards/templatetags/__init__.py",
+		"/D/Development/myproject/myproject/accounts/forms.py",
+		"/D/Development/myproject/myproject/myproject/urls.py",
+		"/D/Development/myproject/myproject/templates/includes/form.html",
+		"/D/Development/myproject/myproject/boards/forms.py",
+		"/D/Development/myproject/myproject/boards/tests.py",
+		"/D/Development/myproject/myproject/static/css/app.css",
+		"/D/Development/myproject/myproject/static/css/accounts.css",
+		"/D/Development/myproject/myproject/templates/signup.html",
+		"/D/Development/myproject/myproject/downloads/bootstrap-4.6.0-dist/css/bootstrap.css",
+		"/D/Development/myproject/myproject/templates/base.html",
+		"/D/Development/myproject/myproject/accounts/views.py",
+		"/D/Development/myproject/myproject/boards/views.py",
+		"/D/Development/myproject/myproject/myproject/settings.py",
+		"/D/Development/myproject/myproject/accounts/test/test_form_signup.py",
+		"/D/Development/myproject/myproject/accounts/test/test_view_signup.py",
+		"/D/Development/myproject/myproject/static/css/bootstrap.min.css",
+		"/D/Development/myproject/myproject/static/js/bootstrap.min.js",
+		"/D/Development/myproject/myproject/static/js/popper.min.js",
+		"/D/Development/myproject/myproject/static/js/jquery-3.6.0.min.js",
+		"/D/Development/myproject/myproject/static/css/transparent.css",
+		"/D/Development/myproject/myproject/boards/admin.py",
+		"/D/Development/myproject/myproject/boards/models.py",
+		"/D/Development/myproject/myproject/templates/home.html",
+		"/D/Development/myproject/myproject/templates/topics.html",
+		"/D/Development/myproject/myproject/templates/new_topics.html",
+		"/D/Development/myproject/myproject/static/accounts.css",
+		"/D/Development/myproject/myproject/accounts/tests.py",
+		"/D/Development/myproject/myproject/accounts/test/__init__.py",
+		"/D/Development/myproject/myproject/manage.py",
+		"/D/Development/myproject/myproject/db.sqlite3",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Anaconda/README.md",
+		"/D/Development/myproject/myproject/boards/migrations/0001_initial.py",
+		"/D/Development/myproject/myproject/boards/migrations/0002_auto_20210316_1535.py",
+		"/D/Development/myproject/myproject/boards/migrations/__pycache__/0001_initial.cpython-38.pyc",
+		"/D/Development/myproject/myproject/templates/topic.html",
+		"/C/Users/User/Desktop/desktop.ini",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/Tetromino/tetromino.py",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/Wormy/wormyGame.py",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/Memory Puzzle/MemoryPuzzleGame.pyGame.py",
+		"/D/Folder Cai Dat/Python/Python38-32/memorypuzzlegame.py",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/Simulate/simulate.pygame.py",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/time.py",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/Slide Puzzle/slidepuzzlegame.pyGame.py",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/Miracle Door/miracleDoor.py",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/Wormy/wormyGame.spec",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/F/LAP TRINH/Lap Trinh Python/Hello.py",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/Memory Puzzle/memorypuzzle_buggy/memorypuzzle_buggy7.py",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/Memory Puzzle/memorypuzzle_buggy/memorypuzzle_buggy8.py",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/Memory Puzzle/memorypuzzle_buggy/memorypuzzle_buggy6.py",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/Memory Puzzle/memorypuzzle_buggy/memorypuzzle_buggy4.py",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/Memory Puzzle/memorypuzzle_buggy/memorypuzzle_buggy5.py",
+		"/F/LAP TRINH/Lap Trinh Python/pyGame/Memory Puzzle/memorypuzzle_buggy/memorypuzzle_buggy3.py",
+		"/C/Users/Public/Desktop/desktop.ini",
+		"/C/Users/User/Desktop/1.js",
+		"/C/Users/User/Desktop/1.php",
+		"/C/Users/User/Desktop/1.html",
+		"/C/Users/User/Desktop/wifiConfig.tar",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/C/Users/User/Desktop/plot.log",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"uuid",
+			"html",
+			"expand",
+			" form",
+			"boards_topic",
+			"pygame.font.SysFont('comicsansms",
+			"pygame.font.Font('freesansbold.ttf'",
+			"level",
+			"TIMEOUT",
+			"('')",
+			"update",
+			"wait",
+			"update"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"pygame.font.SysFont('comicsansms'",
+			"pygame.font.SysFont('comicsansms"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 11,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/Development/myproject/myproject/static/css/transparent.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Django Syntax/Django CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/Development/myproject/myproject/accounts/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								379,
+								379
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/Development/myproject/myproject/boards/templatetags/form_tags.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								426,
+								426
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/Development/myproject/myproject/myproject/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3326,
+								3326
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 105.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/Development/myproject/myproject/accounts/test/test_mail_password_reset.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1174,
+								1174
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "test_templatetags.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								582,
+								582
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "test_view_home.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								672,
+								672
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "test_view_board_topics.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1263,
+								1263
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "test_view_new_topic.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3736,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1565,
+								1565
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/D/Development/myproject/myproject/accounts/test/test_view_password_change.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4062,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1376,
+								1376
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"rulers":
+							[
+								78
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 196.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/D/Development/myproject/myproject/accounts/test/test_view_password_reset.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5457,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5457,
+								5457
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"rulers":
+							[
+								78
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/D/Development/myproject/myproject/myproject/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2036,
+								2036
+							]
+						],
+						"settings":
+						{
+							"rulers":
+							[
+								78
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 105.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/D/Development/myproject/myproject/accounts/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 537,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								537,
+								537
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/D/Development/myproject/myproject/boards/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								278,
+								278
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/D/Development/myproject/venv/Lib/site-packages/django/contrib/auth/decorators.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2892,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 76.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/D/Development/myproject/myproject/templates/base_accounts.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 417,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								386,
+								386
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/D/Development/myproject/myproject/templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2453,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1527,
+								1527
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/D/Development/myproject/myproject/templates/login.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 883,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								883,
+								883
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "/D/Development/myproject/myproject/templates/includes/form.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 658,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								513,
+								513
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "/D/Development/myproject/myproject/templates/password_change.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 542,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								542,
+								542
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"rulers":
+							[
+								78
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "/D/Development/myproject/myproject/templates/password_change_done.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 536,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								489,
+								489
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "/D/Development/myproject/myproject/templates/password_reset.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 723,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								295,
+								295
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "/D/Development/myproject/myproject/templates/password_reset_complete.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 681,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								610,
+								610
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"rulers":
+							[
+								78
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "/D/Development/myproject/myproject/templates/password_reset_confirm.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1112,
+								1112
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "/D/Development/myproject/myproject/templates/password_reset_done.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 634,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								546,
+								546
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "/D/Development/myproject/myproject/templates/password_reset_email.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 655,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								336,
+								336
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "/D/Development/myproject/myproject/templates/password_reset_subject.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "/D/Development/myproject/myproject/templates/signup.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								507,
+								507
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.963396778917,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 212.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "test_view_new_topic1.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 854.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
