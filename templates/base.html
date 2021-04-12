@@ -1,0 +1,65 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>{% block title %} Django Boards {% endblock %}</title>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Peralta">
+	<link rel="stylesheet" href="{% static 'css/app.css' %}">
+	{% block stylesheet %}
+	{% endblock  %}
+	{# <link rel="stylesheet" href="{% static 'css/accounts.css' %}"> #}
+	<link rel="stylesheet" type="text/css" href="{% static 'css/bootstrap.min.css' %}">
+</head>
+<body>
+	{% block body %}
+		<nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+			<div class="container">
+				<a class="navbar-brand" href="{% url 'home' %}">Django Boards</a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainMenu" aria-controls="mainMenu" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				{% if user.is_authenticated %}
+					<div class="collapse navbar-collapse" id="mainMenu">
+						<ul class="navbar-nav ml-auto">
+							<li class="nav-item dropdown">
+								<a class="nav-link dropdown-toggle" href="#" id="userMenu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+									{{ user.username }}
+								</a>
+								<div class="dropdown-menu dropdown-menu-right" aira-labelledby="userMenu">
+									<a class="dropdown-item" href="#">My account</a>
+									<a class="dropdown-item" href="{% url 'password_change' %}">Change password</a>
+									<div class="dropdown-divider"></div>
+									<a class="dropdown-item" href="{% url 'logout' %}">Log out</a>
+								</div>
+							</li>
+						</ul>
+					</div>
+				{% else %}
+					<div class="form-inline ml-auto">
+						<a href="{% url 'login' %}" class="btn btn-outline-secondary">Log in</a>
+						<a href="{% url 'signup' %}" class="btn btn-primary ml-2">Sign up</a>
+					</div>
+					
+				{% endif %}
+			</div>
+		</nav>
+		<div class="container">
+			<ol class="breadcrumb my-4">
+				{% block breadcrumb %}
+				{% endblock %}	
+			</ol>
+			{% block content %}
+			{% endblock %}
+		</div>
+	{% endblock body %}
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js"></script>
+	{% block javascript %}
+		
+	{% endblock javascript %}
+	
+</body>
+</html>
