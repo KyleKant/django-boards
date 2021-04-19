@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% load widget_tweaks %}
+
+{% block title %}
+	Start a New Board
+{% endblock title %}
+
+{% block breadcrumb %}
+	<li class="breadcrumb-item">
+		<a href="{% url 'home' %}" class="breadcrumb-item">Boards</a>
+	</li>
+	<li class="breadcrumb-item active">
+		<span>New Board</span>
+	</li>
+{% endblock breadcrumb %}
+
+{% block content %}
+	<form action="" class="" method="post">
+		{% csrf_token %}
+		{% include "includes/form.html" %}
+		<button class="btn btn-success" type="submit">Submit</button>
+	</form>
+{% endblock content %}
+

@@ -28,7 +28,7 @@
 									{{ user.username }}
 								</a>
 								<div class="dropdown-menu dropdown-menu-right" aira-labelledby="userMenu">
-									<a class="dropdown-item" href="#">My account</a>
+									<a class="dropdown-item" href="{% url 'my_account' %}">My account</a>
 									<a class="dropdown-item" href="{% url 'password_change' %}">Change password</a>
 									<div class="dropdown-divider"></div>
 									<a class="dropdown-item" href="{% url 'logout' %}">Log out</a>
@@ -41,14 +41,14 @@
 						<a href="{% url 'login' %}" class="btn btn-outline-secondary">Log in</a>
 						<a href="{% url 'signup' %}" class="btn btn-primary ml-2">Sign up</a>
 					</div>
-					
+
 				{% endif %}
 			</div>
 		</nav>
 		<div class="container">
 			<ol class="breadcrumb my-4">
 				{% block breadcrumb %}
-				{% endblock %}	
+				{% endblock %}
 			</ol>
 			{% block content %}
 			{% endblock %}
@@ -58,8 +58,8 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js"></script>
 	{% block javascript %}
-		
+
 	{% endblock javascript %}
-	
+
 </body>
 </html>

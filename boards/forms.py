@@ -1,5 +1,5 @@
 from django import forms
-from .models import Topic, Post
+from .models import Board, Topic, Post
 
 
 class NewTopicForm(forms.ModelForm):
@@ -23,3 +23,9 @@ class PostForm(forms.ModelForm):
     class Meta:
         model = Post
         fields = ['message', ]
+
+
+class NewBoardForm(forms.ModelForm):
+    class Meta:
+        model = Board
+        fields = ['name', 'description']

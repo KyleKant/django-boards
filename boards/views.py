@@ -18,7 +18,7 @@ from django.utils import timezone
 # from django.http import HttpResponse, Http404
 
 from .models import Board, Post, Topic
-from .forms import NewTopicForm, PostForm
+from .forms import NewTopicForm, PostForm, NewBoardForm
 
 # Create your views here.
 
@@ -50,6 +50,25 @@ class TopicListView(ListView):
             '-last_updated').annotate(replies=Count('posts') - 1)
         return queryset
 
+
+@login_required
+def new_board(request):
+    if request.method == 'POST':
+        board_instance = Board.objects.get(id=1)
+        form = NewBoardForm(request.POST, instance=board_instance)
+        if form.is_valid():
+            form.save(commit=False)
+            form.save()
+            Board.objects.create(
+                name=form.cleaned_data.get('name'),
+                description=form.cleaned_data.get('description')
+            )
+            return redirect('home')
+    else:
+        form = NewBoardForm()
+
+    return render(request, 'new_board.html', {'form': form})
+    pass
 
 @login_required
 def new_topics(request, pk):

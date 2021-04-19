@@ -23,6 +23,7 @@ from accounts import views as accounts_views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.BoardListView.as_view(), name='home'),
+    path('boards/new_board/', views.new_board, name='new_board'),
     path('boards/<pk>/', views.TopicListView.as_view(), name='board_topics'),
     path('boards/<pk>/new/', views.new_topics, name='new_topics'),
 

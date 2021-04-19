@@ -1,6 +1,7 @@
 import math
 
 from django.db import models
+import uuid
 from django.contrib.auth.models import User
 from django.utils.text import Truncator
 from django.utils.html import mark_safe
