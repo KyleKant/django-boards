@@ -54,11 +54,11 @@ class TopicListView(ListView):
 @login_required
 def new_board(request):
     if request.method == 'POST':
-        board_instance = Board.objects.get(id=1)
-        form = NewBoardForm(request.POST, instance=board_instance)
+        # board_instance = Board.objects.get(id=2)
+        form = NewBoardForm(request.POST)
         if form.is_valid():
             form.save(commit=False)
-            form.save()
+            # form.save()
             Board.objects.create(
                 name=form.cleaned_data.get('name'),
                 description=form.cleaned_data.get('description')

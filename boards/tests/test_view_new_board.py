@@ -23,7 +23,7 @@ class NewBoardTests(TestCase):
         pass
 
     def test_new_board_url_resolve_new_board_view(self):
-        view = resolve('/board/new_board/')
+        view = resolve('/boards/new_board/')
         self.assertEquals(view.func, new_board)
         pass
 
@@ -31,13 +31,20 @@ class NewBoardTests(TestCase):
         new_board_url = reverse('new_board')
         home_url = reverse('home')
         response = self.client.get(new_board_url)
-        self.assertContains(response, 'href={0}'.format(home_url))
+        self.assertContains(response, 'href="{0}"'.format(home_url))
         pass
 
     def test_csrf(self):
         url = reverse('new_board')
         response = self.client.get(url)
         self.assertContains(response, 'csrfmiddlewaretoken')
+        pass
+
+    def test_contains_form(self):
+        url = reverse('new_board')
+        response = self.client.get(url)
+        form = response.context.get('form')
+        self.assertIsInstance(form, NewBoardForm)
         pass
 
     def test_new_board_valid_post_data(self):
@@ -68,4 +75,24 @@ class NewBoardTests(TestCase):
         response = self.client.post(url, data)
         self.assertEquals(response.status_code, 200)
         self.assertFalse(Board.objects.exists())
+        pass
+
+    def test_form_inputs(self):
+        url = reverse('new_board')
+        response = self.client.get(url)
+        self.assertContains(response, '<input', 3)
+        self.assertContains(response, 'type="text"', 2)
+        pass
+
+
+class LoginRequiredNewBoardTests(TestCase):
+    def setUp(self):
+        self.url = reverse('new_board')
+        self.response = self.client.get(self.url)
+        pass
+
+    def test_redirection(self):
+        login_url = reverse('login')
+        self.assertRedirects(self.response, '{login_url}?next={url}'.format(
+            login_url=login_url, url=self.url))
         pass
