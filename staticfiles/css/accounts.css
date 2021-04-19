@@ -1,0 +1,21 @@
+body {
+	background-image: url(../img/anime_girl.png);
+	background-size: cover;
+}
+
+.logo {
+	font-family: 'Peralta', cursive;
+}
+
+.logo a{
+	color: rgba(0,255,255,.7);
+}
+
+.logo a: hover,
+.logo a: active {
+	text-decoration: none;
+}
+
+.transparent {
+	background-color: rgba(255, 255, 0, 0.5);
+}
