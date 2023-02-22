@@ -1,7 +1,7 @@
 import math
 
 from django.db import models
-import uuid
+# import uuid
 from django.contrib.auth.models import User
 from django.utils.text import Truncator
 from django.utils.html import mark_safe
@@ -14,6 +14,7 @@ class Board(models.Model):
     """
     Description: Model Description
     """
+    # id = models.AutoField(primary_key=True)
     name = models.CharField(max_length=30, unique=True)
     description = models.CharField(max_length=100)
 
@@ -35,6 +36,7 @@ class Topic(models.Model):
     """
     Description: Model Description
     """
+    id = models.AutoField(primary_key=True)
     subject = models.CharField(max_length=255)
     last_updated = models.DateTimeField(auto_now_add=True)
     board = models.ForeignKey(
@@ -70,6 +72,7 @@ class Post(models.Model):
     """
     Description: Model Description
     """
+    id = models.AutoField(primary_key=True)
     message = models.CharField(max_length=4000)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(null=True)
